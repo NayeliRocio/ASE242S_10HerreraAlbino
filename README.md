@@ -35,7 +35,7 @@ La aplicación es una tarjeta de presentación digital creada con **Angular**, q
 
 1. Clona este repositorio:
    - git clone https://github.com/NayeliRocio/ASE242S_10HerreraNayeli.git
-   - cd ASE242S_HerreraNayeli
+   - cd ASE242S_10HerreraNayeli
    
 2. Instala las dependencias:
    - npm install
