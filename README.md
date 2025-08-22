@@ -34,7 +34,7 @@ La aplicación es una tarjeta de presentación digital creada con **Angular**, q
 ## ⚙️ Cómo ejecutar el proyecto
 
 1. Clona este repositorio:
-   git clone https://github.com/NayeliRocio/ASE242S_HerreraNayeli.git
+   git clone https://github.com/NayeliRocio/ASE242S_10HerreraNayeli.git
    cd ASE242S_HerreraNayeli
    
 2. Instala las dependencias:
@@ -44,7 +44,7 @@ La aplicación es una tarjeta de presentación digital creada con **Angular**, q
    ng serve -o
 
 4. Abre en el navegador:
-   (http://localhost:4200/)
+   http://localhost:4200/
 
 ## 📌 Resultado esperado
 
