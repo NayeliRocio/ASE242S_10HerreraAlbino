@@ -1,0 +1,6 @@
+/* Fondo general de la aplicación */
+:host {
+  display: block;
+  min-height: 100dvh;
+  background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+}
